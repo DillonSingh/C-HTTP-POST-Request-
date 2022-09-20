@@ -1,7 +1,6 @@
 #include "internet.h"
 #include <windows.h>
 #include <WinInet.h>
-#include <stdio.h>
 #include <string>
 #include <iostream>
 #include "base64.h"
